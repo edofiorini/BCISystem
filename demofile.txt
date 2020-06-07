@@ -1,0 +1,14 @@
+up
+down
+down
+up
+right
+left
+left
+right
+forward
+backward
+backward
+open
+close
+forward
